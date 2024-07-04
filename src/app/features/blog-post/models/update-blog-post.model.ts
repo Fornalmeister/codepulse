@@ -1,5 +1,5 @@
-export interface AddBlogPost {
-  title: string;
+export interface UpdateBlogPost{
+    title: string;
   shortDescription: string;
   content: string;
   featuredImageUrl: string;
